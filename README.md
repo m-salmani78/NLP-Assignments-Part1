@@ -23,9 +23,11 @@ This [file](NLP_CA1_Q4.ipynb) is focusing on sentiment analysis using n-gram mod
 **Plots:**
 
 * **Data Distribution:**
+
 ![image](imgs/polarity-dist.png)
 
 * **Confusion Matrix:**
+
 ![image](imgs/confusion_matrix.png)
 
 
@@ -60,7 +62,6 @@ To run any of the notebooks, follow these steps:
 
 5. In the Jupyter Notebook interface, open the desired `.ipynb` file to view and run the code cells.
 
-Make sure to replace `<filename>` with the name of the Python file you want to execute.
 
 ## Dependencies
 
